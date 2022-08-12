@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@opam/dot-merlin-reader": "*",
-    "@opam/ocaml-lsp-server": ">= 1.12.0"
+    "@opam/ocaml-lsp-server": ">= 1.13.0"
   },
   "esy": {
     "buildsInSource": "unsafe",
