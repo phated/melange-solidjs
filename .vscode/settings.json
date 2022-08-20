@@ -1,6 +1,6 @@
 {
   "ocaml.sandbox": {
     "kind": "custom",
-    "template": "cd ${workspaceFolder:melange-solidjs}; esy $prog $args --fallback-read-dot-merlin"
+    "template": "esy -P ${workspaceFolder:melange-solidjs} $prog $args --fallback-read-dot-merlin"
   }
 }
