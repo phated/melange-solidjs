@@ -24,7 +24,7 @@
       "overrides": [],
       "dependencies": [
         "ocaml@4.14.0@d41d8cd9",
-        "melange@github:melange-re/melange#43511419eedd42fba11d81698afbc07e047c5bb8@d41d8cd9",
+        "melange@github:melange-re/melange#64211f671e906f175047824182ad835fca88c02c@d41d8cd9",
         "@opam/dune@opam:3.4.1@84d54aea"
       ],
       "devDependencies": [
@@ -33,16 +33,16 @@
       ],
       "installConfig": { "pnp": false }
     },
-    "melange@github:melange-re/melange#43511419eedd42fba11d81698afbc07e047c5bb8@d41d8cd9": {
+    "melange@github:melange-re/melange#64211f671e906f175047824182ad835fca88c02c@d41d8cd9": {
       "id":
-        "melange@github:melange-re/melange#43511419eedd42fba11d81698afbc07e047c5bb8@d41d8cd9",
+        "melange@github:melange-re/melange#64211f671e906f175047824182ad835fca88c02c@d41d8cd9",
       "name": "melange",
       "version":
-        "github:melange-re/melange#43511419eedd42fba11d81698afbc07e047c5bb8",
+        "github:melange-re/melange#64211f671e906f175047824182ad835fca88c02c",
       "source": {
         "type": "install",
         "source": [
-          "github:melange-re/melange#43511419eedd42fba11d81698afbc07e047c5bb8"
+          "github:melange-re/melange#64211f671e906f175047824182ad835fca88c02c"
         ]
       },
       "overrides": [],
